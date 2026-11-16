@@ -186,6 +186,11 @@ The planned checks above have not yet been performed.
 
 They describe how the team intends to evaluate the proposed features. They must not be reported as completed tests or observed customer results.
 
+### Geographic Focus: Preliminary Business Decision
+
+The competitor research demonstrates that location-based discovery is a feature used by existing activity and local-deal platforms. However, this evidence does not independently establish customer demand for adventure activities in New Jersey and nearby New York. The team therefore retains this region as its preliminary target market. Further customer surveys, interviews, and market research will be necessary to evaluate demand and confirm the geographic focus.
+
+
 ## 8. Research Limitations
 
 This comparison uses published information from the three platforms.
