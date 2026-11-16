@@ -154,3 +154,18 @@ Further research and usability testing would be needed to confirm actual custome
 
 ChatGPT assisted with organizing the business positions, developing hypothetical personas, drafting the target audience, and connecting research findings to proposed website features. The team is responsible for reviewing the content and verifying research claims.
 website features. The team should verify these ideas against competitor research before final submission.
+
+## 7. Future Customer Research Plan
+
+Our current target audience and customer personas are hypotheses. We have not yet interviewed customers to confirm their needs.
+
+To evaluate our initial focus on New Jersey and nearby New York, we propose:
+
+1. Survey college students and young adults about their interest in ATV riding, ziplining, and escape rooms.
+2. Ask how far they would travel for an adventure and how much they would be willing to spend.
+3. Interview potential customers about difficulties finding and comparing activities.
+4. Ask participants to review the proposed website features.
+5. Use the feedback to revise our target audience, activity categories, and booking information.
+
+These are planned research activities, not completed interviews or verified customer findings.
+
