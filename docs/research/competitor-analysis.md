@@ -232,5 +232,44 @@ The final design decisions will be informed by the combined research contributio
 
 ---
 
+
+## 11. Direct Website Inspection and Evidence
+
+On November 15, 2026, I visited the official websites of all three reference platforms.
+
+### GetYourGuide — Direct Observation
+
+The homepage displayed a search bar, destination cards, and sections for discovering attractions and experiences.
+
+The official 2026 Spring Release also describes verified review summaries, improved search and discovery, and meeting-point photographs.
+
+### Viator — Direct Observation
+
+The homepage displayed a search interface with separate destination/activity and date fields. It also prominently advertised more than 400,000 travel experiences.
+
+The official homepage describes customer support, millions of reviews, and flexible booking options.
+
+### Groupon — Direct Observation
+
+The local deals page displayed activity categories, location selection, filters, ratings, promotional prices, and local business offers.
+
+The inspected page displayed Norwalk, Connecticut. This was a website inspection example, not evidence of activity availability in New Jersey or New York.
+
+### Evidence and Interpretation
+
+The homepage observations are direct visual evidence of the interfaces inspected.
+
+Additional features described in the official published sources are documented evidence, but should not be confused with features personally tested during this inspection.
+
+### Research Limitations
+
+This inspection did not involve customer interviews, usability testing, or actual bookings.
+
+The proposed Thrill Pass features remain hypotheses until they are reviewed and tested.
+
+**Researcher:** Ezinne Orekie  
+**Inspection date:** November 15, 2026
+
+
 **Research contributor:** Ezinne Orekie  
 **AI assistance disclosure:** ChatGPT assisted with organizing the research, identifying comparison categories, and preparing this draft. The researcher is responsible for reviewing the original sources, confirming the findings, and approving the final research and design decisions.
